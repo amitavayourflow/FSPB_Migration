@@ -1,0 +1,17 @@
+﻿.login-header {
+    background: linear-gradient(to right, #000001 0%, #071a28 41%, #0e3552 100%);
+}
+
+.login-nav {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 0;
+}
+
+.login-logo {
+    width: 100%;
+    height: auto;
+    max-width: 250px;
+}

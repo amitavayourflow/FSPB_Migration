@@ -1,0 +1,42 @@
+﻿.login-header {
+    background: linear-gradient(to right, #000001 0%, #071a28 41%, #0e3552 100%);
+}
+
+.login-nav {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 0;
+}
+
+.login-logo {
+    width: 100%;
+    height: auto;
+    max-width: 250px;
+}
+#new_footer {
+    /* background-image: url(../../assets/img/footer_bg.jpg); */
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #000;
+    color: #707070;
+    width: 100%;
+}
+.main_footer {
+    border-bottom: 1px solid dimgray;
+    padding-bottom: 20px;
+    padding-top: 30px;
+}
+#new_footer h6 {
+    /* margin: 0 20px 0 0; */
+    line-height: 1;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+#new_footer a {
+    font-size: 16px;
+    color: #707070;
+    font-size: 16px;
+}
